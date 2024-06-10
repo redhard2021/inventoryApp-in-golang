@@ -1,0 +1,4 @@
+1,Motorola A10,250.00,5
+2,Motorola E49,1233.00,10
+3,Xiaomi REDMI Note 8,1239.00,40
+4,Lenovo Thinkpad 3220,1233.00,123
